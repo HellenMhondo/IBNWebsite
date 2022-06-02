@@ -1738,8 +1738,8 @@ body.sticky .sticky-menu {
   transform: scale(1);
 }
 .feat-cap-wrap {
-  top: 30%;
-  left: 70%;
+  top: 30% !important;
+  left: 70% !important;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   -o-transform: translate(-50%, -50%);
@@ -1773,7 +1773,7 @@ body.sticky .sticky-menu {
   position: absolute;
   right: 5.625rem;
   z-index: 1;
-  top: 50%;
+  top: 50%!important;
   padding-left: 0;
   list-style: none;
   margin-bottom: 0;
