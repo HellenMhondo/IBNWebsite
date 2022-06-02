@@ -1738,8 +1738,8 @@ body.sticky .sticky-menu {
   transform: scale(1);
 }
 .feat-cap-wrap {
-  top: 50%;
-  left: 50%;
+  top: 30%;
+  left: 70%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   -o-transform: translate(-50%, -50%);
@@ -3497,8 +3497,8 @@ span.proj-loc i {font-style: normal;}
 .feat-wrap .feat-caro2 ul.slick-dots {
   margin: 0;
   position: absolute;
-  bottom: 5rem;
-  top: auto;
+ 
+  top: 60%;
   -webkit-transform: translate(0);
   -ms-transform: translate(0);
   -o-transform: translate(0);
